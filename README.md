@@ -1,8 +1,9 @@
 # portfolio
 This is my portfolio project
-[Live Deployment](https://portfolio-tiffaniemuh.herokuapp.com/)
+[Live Deployment](https://portfoliotheo.theodarlington.repl.co/)
 
-![image](https://user-images.githubusercontent.com/102338848/165016945-b733292c-97d0-4966-be12-19eb2c1d45bf.png)
+![image](![Screenshot 2023-01-31 222731](https://user-images.githubusercontent.com/107377018/215968243-80854014-dc15-4ed0-8ebf-fabeff4c2600.png)
+)
 
 
 # Technology Used:
